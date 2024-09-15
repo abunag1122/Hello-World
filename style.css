@@ -1,0 +1,24 @@
+h1 {
+    color: white; 
+    background: red;
+    font-size: 40px;
+    font-family: helvetica;
+    font-weight: bold;
+  }
+figure {
+    margin: 0;
+    border: 3px salmon;
+    padding: 5px;
+    padding-bottom: 5px; 
+}
+
+figure img {
+    max-width: 100%;
+    height: auto;
+}
+
+p {
+    line-height: 1.25;
+    margin-bottom: 1.25em;
+    background: #dbffdf;
+  }
