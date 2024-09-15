@@ -20,6 +20,10 @@ figure img {
     margin-bottom: 10px;
 }
 
+figcaption {
+    font-family: helvetica;
+}
+
 p {
     font-family: helvetica;
     line-height: 1.25;
