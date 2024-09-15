@@ -4,13 +4,14 @@ h1 {
     font-size: 40px;
     font-family: helvetica;
     font-weight: bold;
+    text-align: center;
   }
 figure {
     margin: 0;
-    border: 3px solid black;
-    width: 500px;
+    border: 1px solid black;
     padding: 5px;
     padding-bottom: 5px; 
+    background: gainsboro;
 }
 
 figure img {
