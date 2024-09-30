@@ -17,7 +17,9 @@ nav ul {
 }
 
 nav ul li {
-    font-size: 47px;
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 40px;
     display: inline;
     margin: 0 20px;
     
