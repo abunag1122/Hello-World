@@ -12,11 +12,13 @@ nav ul {
     list-style: none;
     padding: 0;
     border: 3px solid black;
-    display: inline;
     justify-content: center;
+    display: flex;
 }
 
 nav ul li {
+    font-size: 20px;
+    display: inline;
     margin: 0 20px;
     
 }
