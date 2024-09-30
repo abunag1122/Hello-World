@@ -12,12 +12,13 @@ nav ul {
     list-style: none;
     padding: 0;
     border: 3px solid black;
+    display: inline-flexbox;
+    justify-content: center;
 }
 
 nav ul li {
-    display: inline;
-    border-bottom: 3px solid black;
-
+    margin: 0 20px;
+    
 }
 
 nav ul li:last-child {
