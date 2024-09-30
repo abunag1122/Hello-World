@@ -15,7 +15,7 @@ nav ul {
 }
 
 nav ul li {
-    float: left;
+    display: inline;
     border-bottom: 3px solid black;
 
 }
