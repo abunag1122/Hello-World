@@ -7,6 +7,14 @@ h1 {
     text-align: center;
   }
 
+h1#article-title {
+    color: white; 
+    background: rgb(204, 142, 142);
+    font-size: 30px;
+    font-family: helvetica;
+    font-weight: bold;
+    text-align: left;
+  }
 nav ul {
     background-color:aliceblue;
     list-style: none;
@@ -57,6 +65,14 @@ figure img {
 figcaption {
     font-family: helvetica;
 }
+
+p.wrap {
+    float: right; 
+    margin: 5px;
+   }
+p.wrap caption {
+    font-family: helvetica;
+   }
 
 p {
     font-family: helvetica;
