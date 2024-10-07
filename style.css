@@ -66,17 +66,15 @@ figcaption {
     font-family: helvetica;
 }
 
-p.wrap {
+.wrap {
     float: right; 
     margin: 5px;
-   }
-p.wrap caption {
-    font-family: helvetica;
+    max-width: 30%;
+    height: 30%; 
    }
 
 p {
     font-family: helvetica;
     line-height: 1.25;
     margin-bottom: 1.25em;
-    background: #dbffdf;
   }
