@@ -34,6 +34,7 @@ html {
      padding: 0;
      border: 3px solid black;
      text-align: center;
+   
   
  }
  
@@ -90,13 +91,15 @@ html {
      caption-side: bottom;
  }
  
- .wrap {
-     float: right; 
-     margin: 5px;
-     max-width: 30%;
-     height: 30%;  
-    }
  
+ .wrap {
+     top: -10px;
+     float: right; 
+     margin: 10px;
+     max-width: 30%;
+     height: 30%;
+     
+    }
  
  p {
      font-family: helvetica;
@@ -107,6 +110,9 @@ html {
  
  footer{
      background: aliceblue;
+     position: absolute;
+     bottom: 100;
+     width: 100%;
  }
  
  h3#footer-title{  
