@@ -33,12 +33,12 @@ html {
      list-style: none;
      padding: 0;
      border: 3px solid black;
+   justify-content: center;
   
  }
  
  @media all and (min-width: 376) {
    nav ul {
-     justify-content: center;
      display: flex;
      gap: 30px;
    }
@@ -67,6 +67,11 @@ html {
      text-decoration: underline;
  }
  
+ img {
+   max-width: 100%;
+   height: auto;
+ }
+ 
  figure {
      margin: 0;
      border: 3px solid black;
@@ -75,8 +80,6 @@ html {
  }
  
  figure img {
-     max-width: 100%;
-     max-height: auto;
      margin-bottom: 10px;
      margin-left: auto;
      margin-right: auto;
